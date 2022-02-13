@@ -1,0 +1,23 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "A simple npm package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLynette/npm-test.git"
+  },
+  "author": "ilynette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLynette/npm-test/issues"
+  },
+  "homepage": "https://github.com/iLynette/npm-test#readme",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
